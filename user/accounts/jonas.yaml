@@ -1,0 +1,11 @@
+state: enabled
+email: jonasmakart0913@gmail.com
+fullname: 'Jonas M'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$SpxGVBAOq7tYIZijGifjquwGanEI.kpwX/F3h5zm88xUAhUc0nBl2

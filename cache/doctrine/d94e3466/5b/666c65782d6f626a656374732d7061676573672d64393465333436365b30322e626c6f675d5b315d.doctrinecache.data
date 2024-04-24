@@ -1,0 +1,12 @@
+1713661700
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"blog";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:4:"Blog";s:12:"hero_classes";s:19:"parallax text-light";s:7:"content";a:5:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"limit";i:5;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}}s:11:"frontmatter";s:203:"title: Blog
+hero_classes: parallax text-light
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true";s:8:"markdown";s:10:"#Blog Post";}s:7:"storage";a:7:{s:3:"key";s:4:"blog";s:11:"storage_key";s:7:"02.blog";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1713472605;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1713472605;}}s:8:"children";a:2:{s:17:"blog-another-post";b:0;s:13:"blog-post-one";b:0;}s:8:"checksum";s:32:"50eb877ff200778cc303fe97ff4a1305";}}

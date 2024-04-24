@@ -1,0 +1,112 @@
+form: flex-pages
+id: 'tmp://forms/session/bdc09ec2ec6fcaef09940be5ff9ade19'
+unique_id: bdc09ec2ec6fcaef09940be5ff9ade19
+url: 'http://localhost/grav-skeleton-onepage-site+admin-2.0.0/admin/pages/home/blog'
+user:
+  username: jonas
+  email: jonasmakart0913@gmail.com
+timestamps:
+  created: 1713470359
+  updated: 1713470359
+data:
+  header:
+    title: Blog
+    media_order: null
+    body_classes: null
+    order_by: null
+    order_manual: null
+    hero_classes: null
+    hero_image: null
+    content:
+      items:
+        - '@self.children'
+      limit: 5
+      order:
+        by: date
+        dir: desc
+      pagination: true
+      url_taxonomy_filters: true
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    blog_url: null
+    show_sidebar: null
+    show_breadcrumbs: null
+    show_pagination: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: '#Blog Post'
+  folder: blog
+  route: /home/blog
+  name: blog
+  ordering: true
+  order: '_hero,_highlights,_callout,_features,blog'
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: home/blog
+  storage_key: 01.home/02.blog
+  timestamp: 1713469960
+  serialized:
+    __META:
+      key: home/blog
+      storage_key: 01.home/02.blog
+      template: blog
+      storage_timestamp: 1713469960
+      markdown:
+        '': { blog: 1713469960 }
+      checksum: 3c5b91962955c0c4df316c236b710c77
+    storage_key: 01.home/02.blog
+    parent_key: 01.home
+    order: '02.'
+    folder: blog
+    template: blog
+    lang: ''
+    header:
+      title: Blog
+      content:
+        items: ['@self.children']
+        limit: 5
+        order: { by: date, dir: desc }
+        pagination: true
+        url_taxonomy_filters: true
+    root: false
+    route: /home
+    name: blog.md
+    frontmatter: "title: Blog\n"
+    slug: blog
+    ordering: true
+    markdown: '#Blog Post'

@@ -1,0 +1,78 @@
+1714109336
+a:2:{s:7:"content";s:3016:"<section class="x-features">
+    <section class="section-title">
+        <div class="container text-center">
+            <h2>Homepage Highlights</h2>
+            <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
+        </div>
+    </section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 img-left">
+                            </div>
+            <div class="col-md-6">
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-fighter-jet"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-database"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-cubes"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-object-ungroup"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-puzzle-piece"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa fa-money"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3></h3>
+
+                        <p></p>
+                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+</section>
+";s:12:"content_meta";N;}

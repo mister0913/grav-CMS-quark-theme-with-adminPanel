@@ -1,0 +1,10 @@
+1714269152
+a:2:{s:7:"content";s:408:"
+<section id="" class="section modular-hero hero  title-h1h2 overlay-light-gradient " style="background-image: url('/grav-skeleton-onepage-site+admin-2.0.0/user/pages/01.home/_home/frozen.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Hello</h1>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}
